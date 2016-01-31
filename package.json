@@ -1,0 +1,19 @@
+{
+  "name": "angular2-starter-pack",
+  "version": "0.0.1",
+  "description": "A minimal starter pack for Angular 2",
+  "scripts": {
+    "start": "gulp",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazlojuly/angular2-starter-pack.git"
+  },
+  "author": "lazlojuly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazlojuly/angular2-starter-pack/issues"
+  },
+  "homepage": "https://github.com/lazlojuly/angular2-starter-pack#readme"
+}
