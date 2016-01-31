@@ -10,7 +10,7 @@ A small Angular 2 starter pack containing:
 
 * [Node.js](https://nodejs.org/en/)
 
-# Installation
+## Installation
 
 ```
 git clone git@github.com:lazlojuly/angular2-starter-pack.git
@@ -21,3 +21,7 @@ gulp
 ```
 
 Running `gulp` starts Browsersync which then fires up a mini-server and launches the application in your default browser. (`http://localhost:3001/`).
+
+## Directory Structure
+
+TODO
