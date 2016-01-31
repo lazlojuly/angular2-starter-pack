@@ -20,6 +20,4 @@ cd angular2-starter-pack && npm install
 gulp
 ```
 
-Running `gulp` starts Browsersync which then fires up a mini-server.
-
-The site is available at: `http://localhost:3001/`.
+Running `gulp` starts Browsersync which then fires up a mini-server and launches the application in your default browser. (`http://localhost:3001/`).
