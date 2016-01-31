@@ -1,5 +1,9 @@
 # angular2-starter-pack
-A very small client-server Angular 2 starter pack
+A very small client-server Angular 2 starter pack containing:
+
+* Gulp
+* Browsersync
+* Angular 2
 
 # Requirements
 * node & npm
