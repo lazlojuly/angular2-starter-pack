@@ -1,19 +1,23 @@
-# angular2-starter-pack
-A very small client-server Angular 2 starter pack containing:
+## Angular 2 Starter Pack
 
-* Gulp
-* Browsersync
-* Angular 2
+A small Angular 2 starter pack containing:
 
-# Requirements
-* node & npm
+* [Gulp](http://gulpjs.com/)
+* [Browsersync](https://www.browsersync.io)
+* [Angular 2](https://angular.io/docs/js/latest/)
 
-# Usage
+## Dependencies
+
+* [Node.js](https://nodejs.org/en/)
+
+# Installation
 
 ```
 git clone git@github.com:lazlojuly/angular2-starter-pack.git
 
 cd angular2-starter-pack && npm install
 
-gulp // starts default browser
+gulp
 ```
+
+Running `gulp` starts Browsersync which then to fires up a mini-server and provides a URL to view the site at `http://localhost:3001/`
