@@ -2,9 +2,9 @@
 
 A small Angular 2 starter pack containing:
 
-* [Gulp](http://gulpjs.com/)
-* [Browsersync](https://www.browsersync.io)
-* [Angular 2](https://angular.io/docs/js/latest/)
+* [Gulp](http://gulpjs.com/) (Task runner)
+* [Browsersync](https://www.browsersync.io) (Updates browser when files change)
+* [Angular 2](https://angular.io/docs/js/latest/) (JavaScript framework)
 
 ## Dependencies
 
@@ -20,4 +20,6 @@ cd angular2-starter-pack && npm install
 gulp
 ```
 
-Running `gulp` starts Browsersync which then to fires up a mini-server and provides a URL to view the site at `http://localhost:3001/`
+Running `gulp` starts Browsersync which then fires up a mini-server.
+
+The site is available at: `http://localhost:3001/`.
